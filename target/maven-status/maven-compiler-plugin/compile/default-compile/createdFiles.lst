@@ -1,0 +1,7 @@
+com\exemplo\conversor\controller\ConversorController.class
+com\exemplo\conversor\dto\ConversaoResponseDTO.class
+com\exemplo\conversor\config\AppConfig.class
+com\exemplo\conversor\service\CambioService.class
+com\exemplo\conversor\model\Moeda.class
+com\exemplo\conversor\config\ApiCambioClient.class
+com\exemplo\conversor\service\ConversorService.class
